@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "7459fc90-885e-4fcb-9d3e-196e15d73d88",
+            "Value": {
+                "id": "47808ce5-5d66-4b53-b850-0ac361044dd6",
+                "resourcePath": "sprites\\spr_\\spr_.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "750cba36-2aa1-4b35-97fe-ae9288b580e7",
             "Value": {
                 "id": "9a16fab9-9523-45cc-8b5b-3d9871b0bf37",
@@ -357,6 +365,14 @@
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "fe194fe7-62aa-432b-9881-fffe80651f6f",
+            "Value": {
+                "id": "3b689c37-9b03-4a79-af74-6b27776a2fca",
+                "resourcePath": "scripts\\round_n\\round_n.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
@@ -366,7 +382,8 @@
         "d505ab3a-2a93-4577-823e-15195d53307e",
         "ea6c31a3-c2bc-4a07-8065-5dd6449754eb",
         "9fd9c16c-5d7e-4bd4-b82e-232dcb1b8d5c",
-        "ebf15ea5-c04a-4d97-898c-67939e14494a"
+        "ebf15ea5-c04a-4d97-898c-67939e14494a",
+        "fe194fe7-62aa-432b-9881-fffe80651f6f"
     ],
     "tutorial": ""
 }
